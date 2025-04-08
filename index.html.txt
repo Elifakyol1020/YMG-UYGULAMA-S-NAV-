@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>ymg vize</title>
+</head>
+<body>
+<h1>Elif Akyol-02220224019-BU BİR SINAV SAYFASIDIR.</h1>
+</body>
+</html>
